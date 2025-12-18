@@ -66,7 +66,7 @@ public class CardValidator
     }
 }
 
-// Exemplo de uso
+
 public class Program
 {
     public static void Main()
